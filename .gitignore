@@ -1,0 +1,21 @@
+######## .gitignore File ##########
+
+###################################
+## Visual Studio Generated Files ##
+###################################
+*.VC.db
+
+##############################
+### Unreal Generated Files ###
+##############################
+
+## Global Ignores
+*/Build
+*/Binaries
+*/DerivedDataCache
+*/Intermediate/
+*/Saved
+
+## Project Specific Ignores
+BuildingEscape/Content/StarterContent/
+
